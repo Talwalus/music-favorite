@@ -17,15 +17,15 @@ const musicList = [
         file: "fleeting girl.mp3",
         cover: "fleeting girl.jpg",
     },
-//     {
-//         title: ".......
-//         artist: "System",
-//         duration: "2:47",
-//         likes: 12000,
-//         views: 5000000,
-//         file: "mp3/.mp3",
-//         cover: "img/....jpg",
-//     },
+    {
+        title: "Waltz"
+        artist: "Ryugujo",
+        duration: "2:47",
+        likes: 12000,
+        views: 5000,
+        file: "mp3/.mp3",
+        cover: "waltz.jpg",
+    },
 //     {
 //         title: ".......",
 //         artist: "Red Hot fuck sex Peppers",
