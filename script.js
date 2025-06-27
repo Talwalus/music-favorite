@@ -18,7 +18,7 @@ const musicList = [
         cover: "fleeting girl.jpg",
     },
     {
-        title: "Waltz"
+        title: "Waltz",
         artist: "Ryugujo",
         duration: "2:47",
         likes: 12000,
